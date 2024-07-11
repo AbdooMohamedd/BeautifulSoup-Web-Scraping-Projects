@@ -85,7 +85,7 @@ Scrapes laptop prices from Jumia. Extracts laptop names, prices, and specificati
 
 Scrapes quotes from a quotes website. Collects quotes, authors, and tags. Saves the data in a CSV file for reference.
  
-     [Project 4 - Web Scraping Quotes](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Quotes)
+[Project 4 - Web Scraping Quotes](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Quotes)
 
 ### Project 5: Web Scraping WUZZUF Jobs
 
