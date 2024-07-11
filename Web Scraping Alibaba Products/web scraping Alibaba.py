@@ -102,14 +102,3 @@ with codecs.open(csv_file_path, "w", encoding='utf-8', errors='replace') as myfi
         wr.writerow(decoded_row)
 
 print("Data scraped and saved to CSV:", csv_file_path)
-
-
-
-
-
-
-
-
-
-
-
