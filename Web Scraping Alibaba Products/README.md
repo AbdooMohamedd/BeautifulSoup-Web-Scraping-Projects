@@ -6,7 +6,7 @@ This project demonstrates how to scrape product information from Alibaba using B
 
 ## Overview
 
-The script scrapes product information such as product ID, name, price range, shipment details, minimum order quantity, product link, and image link from Alibaba's search results. The collected data is stored in a CSV file for further analysis.
+The script scrapes product information such as product ID, name, price range, shipment details, minimum order quantity, product link, and image link from Alibaba's search results (https://www.alibaba.com). The collected data is stored in a CSV file for further analysis.
 
 ## Technologies Used
 
