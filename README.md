@@ -66,22 +66,26 @@ Each project directory typically contains the following files:
 ### Project 1: Web Scraping Alibaba Products
 
 Scrapes product information from Alibaba. Collects product names, prices, and availability. Stores the data in a CSV file for easy access.
-      [Project 1 - Web Scraping Alibaba Products](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Alibaba%20Products)
+      
+[Project 1 - Web Scraping Alibaba Products](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Alibaba%20Products)
 
 ### Project 2: Web Scraping FIFA 2024 all Players
 
 Scrapes player data from the FIFA 2024 database. Gathers player names, positions, and statistics. Saves the data in a CSV file for analysis.
-     [Project 2 - Web Scraping FIFA 2024 all Players](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20FIFA%202024%20all%20Players)
+   
+  [Project 2 - Web Scraping FIFA 2024 all Players](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20FIFA%202024%20all%20Players)
 
 ### Project 3: Web Scraping Jumia Laptop Prices
 
 Scrapes laptop prices from Jumia. Extracts laptop names, prices, and specifications. Outputs the data to a CSV file for comparison.
-     [Project 3 - Web Scraping Jumia Laptop Prices](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Jumia%20Laptop%20Prices)
+  
+   [Project 3 - Web Scraping Jumia Laptop Prices](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Jumia%20Laptop%20Prices)
 
 ### Project 4: Web Scraping Quotes
 
 Scrapes quotes from a quotes website. Collects quotes, authors, and tags. Saves the data in a CSV file for reference.
-      [Project 4 - Web Scraping Quotes](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Quotes)
+ 
+     [Project 4 - Web Scraping Quotes](https://github.com/AbdooMohamedd/BeautifulSoup-Web-Scraping-Projects/tree/main/Web%20Scraping%20Quotes)
 
 ### Project 5: Web Scraping WUZZUF Jobs
 
