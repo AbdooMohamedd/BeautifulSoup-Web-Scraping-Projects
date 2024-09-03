@@ -1,5 +1,7 @@
 # Web Scraping Alibaba Products
 
+![Alibaba Logo](alibaba.png)
+
 ## Project Date: 16-10-2023
 
 This project demonstrates how to scrape product information from Alibaba using BeautifulSoup, requests, and CSV modules. The script collects various product details and saves them into a CSV file.
@@ -22,13 +24,13 @@ The script scrapes product information such as product ID, name, price range, sh
 
 1. Clone the repository and navigate to the project directory.
 2. Install the required dependencies:
-    ```bash
-    pip install beautifulsoup4 requests
-    ```
+   ```bash
+   pip install beautifulsoup4 requests
+   ```
 3. Run the scraping script:
-    ```bash
-    web scraping Alibaba.py
-    ```
+   ```bash
+   web scraping Alibaba.py
+   ```
 
 ## Script Explanation
 
@@ -43,6 +45,7 @@ The script scrapes product information such as product ID, name, price range, sh
 ## Sample Output
 
 The output CSV file contains the following columns:
+
 - Product ID
 - Product Name
 - Price Range
@@ -55,5 +58,3 @@ Here is a sample of the output data:
 | Product Name | Price Range | Shipment | Minimum Order | Product Link | Image |
 |--------------|-------------|----------|---------------|--------------|-------|
 | Aoro A17 Octa core 12.5mm slim smart phone android handheld 108MP camera feature rugged mobile phones 3g&4g smartphone rugged | $575.00 - $580.00 | Ready to Ship | Shipping per set: $43.00 | [Link](https://www.alibaba.com/product-detail/Aoro-A17-Octa-core-12-5mm_1600713688510.html) | ![Image](//s.alicdn.com/@sc04/kf/H396c3c10d77f4188847b51c398d415cdE.png_300x300.png) |
-
-
